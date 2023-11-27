@@ -3,5 +3,5 @@ main(){
 }
 
 fun subscribe(){
-    print("subscribete")
+    print("subscribete, a mi canal ahora mismo")
 }
